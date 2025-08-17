@@ -1,8 +1,7 @@
-# worker-pool
-
+## worker-pool
 A simple worker pool implementation in Node.js
 
-## Features
+### Features
 
 - Promise-based callback system
 - Automatic worker crash recovery
